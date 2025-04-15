@@ -1,15 +1,5 @@
 # 🛡️ Kapsamlı Siber Güvenlik Araçları Koleksiyonu
 
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/your-username/B-ToolSet?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/B-ToolSet?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/your-username/B-ToolSet?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/B-ToolSet)
-
-
-
-</div>
 
 ## 📋 İçindekiler
 - [Proje Hakkında](#-proje-hakkında)
