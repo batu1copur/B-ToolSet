@@ -90,7 +90,7 @@ git clone https://github.com/batu1copur/B-ToolSet.git
 
 ## 📜 Lisans
 
-Bu proje [MIT Lisansı](./LICENSE) altında lisanslanmıştır. Her araç kendi lisansı kapsamında dağıtılmaktadır.
+Her araç kendi lisansı kapsamında dağıtılmaktadır.
 
 ---
 
